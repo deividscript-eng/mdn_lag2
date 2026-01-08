@@ -1,0 +1,2 @@
+rootProject.name = "mdn_lag"
+include ':app'
